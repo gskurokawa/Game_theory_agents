@@ -1,0 +1,5 @@
+game,stakes,n_games,mean_rounds,mean_level,sd_level,ci95_low,ci95_high,mean_first_round,mean_total_payoff_per_player,mean_mutual_cooperation
+Prisoner's dilemma,low,50,9.44,0.1956,0.3018,0.1185,0.2827,0.34,11.68,0.1203
+Prisoner's dilemma,high,50,9.44,0.0678,0.1181,0.0383,0.1022,0.13,10710.0,0.005
+Public goods game,low,50,9.44,0.3735,0.4083,0.2639,0.4897,0.52,107.54,
+Public goods game,high,50,9.44,0.2498,0.3115,0.1675,0.3393,0.38,105860.0,

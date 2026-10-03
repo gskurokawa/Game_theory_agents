@@ -1,0 +1,945 @@
+﻿condition,game_type,stakes,game,game_rounds,round,p0_move,p1_move,cooperative_option,p0_cooperated,p1_cooperated,p0_share,p1_share,p0_payoff,p1_payoff,pool_after_multiplier,p0_reason,p1_reason
+pd_low,pd,low,0,14,1,B,B,A,0,0,,,-1,-1,,B gives me £2 more than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,4,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,5,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,"Given the other player's consistent choice of B, choosing B limits this round's loss to £1 rather than £2."
+pd_low,pd,low,0,14,6,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,7,B,B,A,0,0,,,-1,-1,,B always pays £2 more than A when the other player chooses A and £1 more when they choose B.,"The other player has chosen B every round, and B gives me the higher payoff against B."
+pd_low,pd,low,0,14,8,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B always gives a higher immediate payoff than A against either possible choice.
+pd_low,pd,low,0,14,9,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,10,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,11,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,12,B,B,A,0,0,,,-1,-1,,"Since the other player has consistently chosen B, choosing B gives me £1 more than choosing A this round.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,13,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,0,14,14,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, and B loses less than A when paired with B.",B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,1,5,1,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,1,5,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,1,5,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,1,5,4,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,1,5,5,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A is the better response whether the other player chooses A or B.
+pd_low,pd,low,2,2,1,B,B,A,0,0,,,-1,-1,,B pays more than A whether the other player chooses A or B.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,2,2,2,B,B,A,0,0,,,-1,-1,,B pays more than A whether the other player chooses A or B.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,3,5,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,3,5,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,3,5,3,A,A,B,0,0,,,-1,-1,,A strictly outperforms B against either choice by the other player.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,3,5,4,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,3,5,5,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,"The other player has chosen A every round, and A gives you the higher payoff when they choose A."
+pd_low,pd,low,4,18,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B strictly outperforms A regardless of the other player's choice.
+pd_low,pd,low,4,18,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,4,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,5,B,B,A,0,0,,,-1,-1,,B pays more than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,4,18,6,B,B,A,0,0,,,-1,-1,,"The other player has chosen B every round, and B yields the better payoff against B.",B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,7,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,8,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A whether the other player chooses A or B.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,9,B,B,A,0,0,,,-1,-1,,B gives you more money than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,10,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,11,B,B,A,0,0,,,-1,-1,,"Given the other player has consistently chosen B, choosing B limits the loss to £1 rather than £2.",B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,12,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,4,18,13,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B is strictly better than A regardless of the other player's choice.
+pd_low,pd,low,4,18,14,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B always gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,15,B,B,A,0,0,,,-1,-1,,"Since the other player has consistently chosen B, choosing B yields £1 more than choosing A against B.",B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,16,B,B,A,0,0,,,-1,-1,,B guarantees a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,4,18,17,B,B,A,0,0,,,-1,-1,,"Given the other player has always chosen B, choosing B limits my likely loss to £1 rather than £2.",B is the better choice regardless of whether the other player chooses A or B.
+pd_low,pd,low,4,18,18,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,"The other player has always chosen B, and against B, choosing B loses £1 rather than £2."
+pd_low,pd,low,5,4,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,5,4,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,5,4,3,A,A,B,0,0,,,-1,-1,,A gives you £1 more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,5,4,4,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you £1 more than B regardless of the other player's choice.
+pd_low,pd,low,6,13,1,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,2,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A whether the other player chooses A or B.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A whether the other player chooses A or B.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,4,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,5,B,B,A,0,0,,,-1,-1,,B always pays more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,6,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,"Given the other player's repeated choice of B, choosing B yields £−1 instead of £−2."
+pd_low,pd,low,6,13,7,B,B,A,0,0,,,-1,-1,,B is the better choice regardless of what the other player chooses.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,8,B,B,A,0,0,,,-1,-1,,B is strictly better than A regardless of the other player's choice.,B is the better choice against either action by the other player.
+pd_low,pd,low,6,13,9,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,10,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you £2 more than A regardless of the other player's choice.
+pd_low,pd,low,6,13,11,B,B,A,0,0,,,-1,-1,,"Given the other player has consistently chosen B, choosing B limits your loss to £1 rather than £2.",B always gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,12,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,6,13,13,B,A,A,0,1,,,5,-2,,B gives me a higher payoff than A regardless of the other player's choice.,"The other player has consistently chosen B, so choosing A would yield £5 instead of -£1."
+pd_low,pd,low,7,2,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,7,2,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,8,4,1,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,8,4,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,8,4,3,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,8,4,4,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B always pays more than A regardless of the other player's choice.
+pd_low,pd,low,9,10,1,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B against either possible choice by the other player.
+pd_low,pd,low,9,10,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,9,10,3,A,A,B,0,0,,,-1,-1,,A gives you £1 more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,9,10,4,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,9,10,5,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, and A gives me a better payoff than B when facing A."
+pd_low,pd,low,9,10,6,A,A,B,0,0,,,-1,-1,,A always pays £1 more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,9,10,7,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,9,10,8,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,9,10,9,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,9,10,10,A,A,B,0,0,,,-1,-1,,"The other player has chosen A every round, and A gives me £1 rather than losing £2 when facing A.",A gives a higher payoff than B regardless of the other player’s choice.
+pd_low,pd,low,10,27,1,B,B,A,0,0,,,-1,-1,,B always pays £1 more than A against either choice by the other player.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A whether the other player chooses A or B.
+pd_low,pd,low,10,27,3,B,B,A,0,0,,,-1,-1,,B pays more than A regardless of the other player's choice.,B yields £1 more than A regardless of the other player's choice.
+pd_low,pd,low,10,27,4,B,B,A,0,0,,,-1,-1,,B gives £2 more than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,5,B,B,A,0,0,,,-1,-1,,"Given the other player has chosen B in every previous round, B currently gives the better payoff against their apparent strategy.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,6,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,7,B,B,A,0,0,,,-1,-1,,B always pays £2 more than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,8,A,B,A,1,0,,,-2,5,,"After seven rounds of mutual B, switching to A offers a chance to escape the repeated -£1 outcome.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,9,B,B,A,0,0,,,-1,-1,,B guarantees a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,10,B,B,A,0,0,,,-1,-1,,"The other player has chosen B every round, and B gives me the better payoff against B.",B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,11,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,12,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B always pays £2 more than A regardless of the other player's choice.
+pd_low,pd,low,10,27,13,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,14,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives more than A whether the other player chooses A or B.
+pd_low,pd,low,10,27,15,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, and B loses only £1 versus £2 for choosing A against B.",B pays £1 more than A regardless of the other player's choice.
+pd_low,pd,low,10,27,16,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,"The other player has chosen B in 14 of the last 15 rounds, making B the better expected choice."
+pd_low,pd,low,10,27,17,B,B,A,0,0,,,-1,-1,,B pays more than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,10,27,18,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,10,27,19,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,10,27,20,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, and B gives me £1 more than A against B.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,21,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, so B minimizes the loss against their apparent strategy.",B always pays £1 more than A regardless of the other player's choice.
+pd_low,pd,low,10,27,22,B,B,A,0,0,,,-1,-1,,B gives more money than A regardless of the other player's choice.,"The other player has almost always chosen B, and B avoids the larger loss that A would incur against B."
+pd_low,pd,low,10,27,23,B,B,A,0,0,,,-1,-1,,B always pays more than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,24,B,B,A,0,0,,,-1,-1,,B pays £1 more than A whether the other player chooses A or B.,B yields more than A whether the other player chooses A or B.
+pd_low,pd,low,10,27,25,B,B,A,0,0,,,-1,-1,,"The other player has chosen B every round, and B gives me the better payoff when they choose B.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,10,27,26,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, so choosing B limits the likely loss to £1 rather than £2.","The other player has almost always chosen B, and against B your loss is smaller with B than with A."
+pd_low,pd,low,10,27,27,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,11,25,1,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,2,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,3,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,4,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A always pays £1 more than B regardless of the other player's choice.
+pd_low,pd,low,11,25,5,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,6,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,7,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,8,A,A,B,0,0,,,-1,-1,,"Since the other player has consistently chosen A, choosing A gives me £1 instead of £2 loss from choosing B.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,9,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,10,A,A,B,0,0,,,-1,-1,,A is the better response to either choice by the other player.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,11,25,11,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A is always better than B regardless of the other player's choice.
+pd_low,pd,low,11,25,12,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,13,A,A,B,0,0,,,-1,-1,,A is strictly better than B against either choice by the other player.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,14,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and A gives me £1 more than B when the other player chooses A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,15,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,"Against the other player's observed A, A gives £1 instead of losing £2, and A is always the better choice."
+pd_low,pd,low,11,25,16,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,17,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,11,25,18,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, and against A your payoff is better with A than with B."
+pd_low,pd,low,11,25,19,B,A,B,1,0,,,-2,5,,"The other player has chosen A every round, so choosing B is likely to earn £5 instead of £2?.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,20,A,A,B,0,0,,,-1,-1,,"The other player has chosen A every round, and against A, choosing A loses less than choosing B.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,21,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and A gives a better payoff than B against A.",A gives you £1 more than B if the other player chooses A and £2 more if they choose B.
+pd_low,pd,low,11,25,22,A,A,B,0,0,,,-1,-1,,A pays more than B whether the other player chooses A or B.,"The other player has overwhelmingly chosen A, and A is the safer response given this history."
+pd_low,pd,low,11,25,23,A,A,B,0,0,,,-1,-1,,A gives £1 more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,24,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,11,25,25,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and A gives me a better payoff than B against A.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,12,18,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,4,B,B,A,0,0,,,-1,-1,,B always pays at least £1 more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,5,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,"Given the other player has consistently chosen B, choosing B avoids the lower payoff from choosing A against B."
+pd_low,pd,low,12,18,6,B,B,A,0,0,,,-1,-1,,B always gives you £2 more than A regardless of the other player's choice.,B always pays £1 more than A regardless of the other player's choice.
+pd_low,pd,low,12,18,7,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,8,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B always pays more than A regardless of the other player's choice.
+pd_low,pd,low,12,18,9,B,B,A,0,0,,,-1,-1,,B always pays more than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,10,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B pays £1 more than A regardless of the other player's choice.
+pd_low,pd,low,12,18,11,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B is the better choice regardless of the other player's action.
+pd_low,pd,low,12,18,12,B,B,A,0,0,,,-1,-1,,"Since the other player has consistently chosen B, choosing B gives me the better payoff of -£1 rather than -£2.",B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,13,B,B,A,0,0,,,-1,-1,,B is the better choice regardless of what the other player chooses.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,14,B,B,A,0,0,,,-1,-1,,B always gives £2 more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,15,B,A,A,0,1,,,5,-2,,B is strictly better than A regardless of the other player's choice.,"The other player has consistently chosen B, so choosing A earns £5 instead of losing £1."
+pd_low,pd,low,12,18,16,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B pays £2 more than A whether the other player chooses A or B.
+pd_low,pd,low,12,18,17,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,12,18,18,B,B,A,0,0,,,-1,-1,,"The other player has almost always chosen B, making B the safer choice against the observed pattern.","The other player has consistently chosen B, and B gives me £1 rather than losing £2 against B."
+pd_low,pd,low,13,2,1,A,A,B,0,0,,,-1,-1,,A always gives me £2 more than B against either choice by the other player.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,13,2,2,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,14,1,1,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,15,33,1,A,A,B,0,0,,,-1,-1,,A strictly dominates B because it yields a higher payoff against either choice by the other player.,A strictly outperforms B regardless of the other player's choice.
+pd_low,pd,low,15,33,2,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,3,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,4,A,A,B,0,0,,,-1,-1,,A pays more than B whether the other player chooses A or B.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,15,33,5,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,6,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,15,33,7,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,8,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,9,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you more money than B regardless of the other player's choice.
+pd_low,pd,low,15,33,10,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has chosen A every round, and A gives a higher payoff than B when facing A."
+pd_low,pd,low,15,33,11,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,12,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,13,A,A,B,0,0,,,-1,-1,,A gives you £1 more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,14,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,15,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,16,A,A,B,0,0,,,-1,-1,,A gives £1 more than B regardless of the other player's choice.,"The other player has chosen A every round, and against A your payoff is higher with A than with B."
+pd_low,pd,low,15,33,17,A,A,B,0,0,,,-1,-1,,"The other player has always chosen A, and against A, choosing A gives £1 more than choosing B.","Given the other player has always chosen A, choosing A yields -£1 rather than -£2."
+pd_low,pd,low,15,33,18,A,A,B,0,0,,,-1,-1,,"Since the other player has always chosen A, choosing A gives £1 rather than £2.",A is the better choice against either option the other player might choose.
+pd_low,pd,low,15,33,19,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,"Given the other player has always chosen A, choosing A gives the higher payoff this round."
+pd_low,pd,low,15,33,20,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,21,A,A,B,0,0,,,-1,-1,,"The other player has chosen A every round, and against A your payoff is higher with A than with B.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,22,A,A,B,0,0,,,-1,-1,,"The other player has always chosen A, and A gives me £1 rather than £2 when they choose A.",A is the better choice against either option the other player may choose.
+pd_low,pd,low,15,33,23,A,A,B,0,0,,,-1,-1,,"The other player has always chosen A, and A gives me £1 more than B when they choose A.",A pays more than B regardless of the other player's choice.
+pd_low,pd,low,15,33,24,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has always chosen A, and against A your payoff is higher with A than with B."
+pd_low,pd,low,15,33,25,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"Given the other player has consistently chosen A, choosing A yields £1 more than choosing B against A."
+pd_low,pd,low,15,33,26,A,A,B,0,0,,,-1,-1,,A gives more money than B regardless of the other player’s choice.,"Since the other player has consistently chosen A, choosing A gives £-1 rather than £-2 from choosing B."
+pd_low,pd,low,15,33,27,A,A,B,0,0,,,-1,-1,,"Since the other player has consistently chosen A, choosing A limits your loss to £1 instead of £2.",A is strictly better than B against either choice by the other player.
+pd_low,pd,low,15,33,28,A,A,B,0,0,,,-1,-1,,"The other player has always chosen A, and against A, choosing A loses £1 rather than £2 with B.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,29,A,A,B,0,0,,,-1,-1,,"Given the other player has always chosen A, choosing A loses £1 rather than £2 for choosing B.","The other player has always chosen A, and A gives me £1 rather than losing £2 against A."
+pd_low,pd,low,15,33,30,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives £1 more than B whether the other player chooses A or B.
+pd_low,pd,low,15,33,31,A,A,B,0,0,,,-1,-1,,"The other player has always chosen A, and A gives £1 more than B against A.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,15,33,32,A,A,B,0,0,,,-1,-1,,"Given the other player has always chosen A, choosing A avoids the lower payoff of B against A.",A pays more than B regardless of the other player's choice.
+pd_low,pd,low,15,33,33,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has chosen A every round, and A gives me £1 more than B against A."
+pd_low,pd,low,16,19,1,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,2,B,B,A,0,0,,,-1,-1,,"B always pays at least £1 more than A, regardless of the other player's choice.",B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,3,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B yields a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,4,B,B,A,0,0,,,-1,-1,,"The other player has chosen B three times, and B is the better response if they choose B again.",B gives you more money than A regardless of the other player's choice.
+pd_low,pd,low,16,19,5,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,6,B,B,A,0,0,,,-1,-1,,B always pays at least £1 more than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,7,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,8,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,16,19,9,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B always pays more than A regardless of the other player's choice.
+pd_low,pd,low,16,19,10,B,B,A,0,0,,,-1,-1,,B pays more than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,11,B,B,A,0,0,,,-1,-1,,B pays more than A regardless of the other player's choice.,"Given the other player has always chosen B, choosing B limits your loss to £1 rather than £2."
+pd_low,pd,low,16,19,12,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,13,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,14,A,B,A,1,0,,,-2,5,,"The other player has chosen B every round, so choosing A would earn £5 instead of losing £1 if that pattern continues.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,15,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, and B gives me £−1 versus £−2 for A when they choose B.",B pays more than A regardless of the other player's choice.
+pd_low,pd,low,16,19,16,B,B,A,0,0,,,-1,-1,,B always pays £1 more than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,17,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B always gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,18,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, making B the better expected payoff this round.",B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,16,19,19,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, and B earns £1 more than A when matched against B.","The other player has almost always chosen B, making B the better expected choice against their observed pattern."
+pd_low,pd,low,17,21,1,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,3,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,4,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,5,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and A is the safer best response when A is expected.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,6,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A always yields at least £2 more than B against either possible choice by the other player.
+pd_low,pd,low,17,21,7,A,A,B,0,0,,,-1,-1,,"The other player has chosen A every round, so A is safer and currently gives the higher expected payoff.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,8,A,A,B,0,0,,,-1,-1,,"The other player has always chosen A, and against A my payoff is higher with A than with B.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,9,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,10,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and A gives me a better payoff than B against A.",A always pays £1 more than B regardless of the other player's choice.
+pd_low,pd,low,17,21,11,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,12,A,A,B,0,0,,,-1,-1,,"The other player has chosen A every round, and against A my payoff is higher with A than with B.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,13,A,A,B,0,0,,,-1,-1,,A always gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,14,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,15,A,A,B,0,0,,,-1,-1,,"The other player has chosen A every round, and A yields -£1 versus -£2 for B against A.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,16,A,A,B,0,0,,,-1,-1,,"The other player has always chosen A, and against A your payoff is higher with A than with B.",A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,17,A,A,B,0,0,,,-1,-1,,A always pays £1 more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,18,B,A,B,1,0,,,-2,5,,"Given the other player has always chosen A, choosing B yields £5 this round.",A pays more than B regardless of the other player's choice.
+pd_low,pd,low,17,21,19,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,20,A,A,B,0,0,,,-1,-1,,"Given the other player's consistent choice of A, choosing A minimizes your loss this round.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,17,21,21,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,18,2,1,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,18,2,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,19,7,1,A,A,B,0,0,,,-1,-1,,A yields more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,19,7,2,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,19,7,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,19,7,4,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,19,7,5,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,19,7,6,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,19,7,7,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,20,6,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B strictly outperforms A regardless of the other player's choice.
+pd_low,pd,low,20,6,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,20,6,3,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,20,6,4,B,B,A,0,0,,,-1,-1,,B pays more than A whether the other player chooses A or B.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,20,6,5,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,20,6,6,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,"Given the other player's consistent choice of B, choosing B limits the loss to £1 instead of £2."
+pd_low,pd,low,21,9,1,A,A,B,0,0,,,-1,-1,,A is strictly better than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,21,9,2,A,A,B,0,0,,,-1,-1,,A pays £1 more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,21,9,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you £1 more than B regardless of the other player's choice.
+pd_low,pd,low,21,9,4,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,"The other player has chosen A so far, and A is my best response when they choose A."
+pd_low,pd,low,21,9,5,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,21,9,6,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,21,9,7,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,21,9,8,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of which option the other player chooses.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,21,9,9,A,A,B,0,0,,,-1,-1,,A gives £1 more than B whether the other player chooses A or B.,A gives £1 more than B regardless of the other player's choice.
+pd_low,pd,low,22,3,1,B,B,A,0,0,,,-1,-1,,B strictly dominates A because it yields a higher payoff regardless of the other player's choice.,B strictly outperforms A whether the other player chooses A or B.
+pd_low,pd,low,22,3,2,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,22,3,3,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B is the better choice regardless of which option the other player selects.
+pd_low,pd,low,23,10,1,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,23,10,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,23,10,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player’s choice.
+pd_low,pd,low,23,10,4,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,23,10,5,A,A,B,0,0,,,-1,-1,,"The other player has chosen A in every previous round, so A minimizes the likely loss against A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,23,10,6,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and A gives £1 rather than £2 when facing A.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,23,10,7,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,23,10,8,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you £1 more than B regardless of the other player's choice.
+pd_low,pd,low,23,10,9,A,A,B,0,0,,,-1,-1,,A is strictly better than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,23,10,10,A,B,B,0,1,,,5,-2,,A gives me a higher payoff than B regardless of the other player's choice.,"The other player has chosen A every round, so B maximizes my payoff if that pattern continues."
+pd_low,pd,low,24,3,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A against either choice by the other player.
+pd_low,pd,low,24,3,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives at least as much as A against either choice by the other player.
+pd_low,pd,low,24,3,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A whether the other player chooses A or B.,B strictly pays more than A regardless of the other player's choice.
+pd_low,pd,low,25,6,1,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,25,6,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,25,6,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,25,6,4,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A yields more than B regardless of the other player's choice.
+pd_low,pd,low,25,6,5,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,25,6,6,A,A,B,0,0,,,-1,-1,,A yields a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,26,4,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,26,4,2,B,B,A,0,0,,,-1,-1,,B strictly pays more than A regardless of the other player's choice.,B gives you more money than A regardless of the other player's choice.
+pd_low,pd,low,26,4,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,26,4,4,B,B,A,0,0,,,-1,-1,,B gives you more money than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,27,3,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A strictly pays more than B regardless of the other player's choice.
+pd_low,pd,low,27,3,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,27,3,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,28,8,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,28,8,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,28,8,3,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,28,8,4,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,28,8,5,B,B,A,0,0,,,-1,-1,,B gives you £2 more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,28,8,6,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B is the better choice against the other player's apparent consistent choice of B.
+pd_low,pd,low,28,8,7,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, making B the better response because it loses £1 rather than £2 if they choose B again.",B gives at least £1 more than A against either possible choice by the other player.
+pd_low,pd,low,28,8,8,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,29,5,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,29,5,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,29,5,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,29,5,4,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,29,5,5,A,B,B,0,1,,,5,-2,,A gives you a higher payoff than B regardless of the other player's choice.,"Given the other player has repeatedly chosen A, B yields £5 instead of another £1 loss."
+pd_low,pd,low,30,9,1,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,30,9,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,30,9,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,30,9,4,B,B,A,0,0,,,-1,-1,,B pays more than A whether the other player chooses A or B.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,30,9,5,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,30,9,6,B,B,A,0,0,,,-1,-1,,B pays more than A whether the other player chooses A or B.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,30,9,7,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,30,9,8,B,B,A,0,0,,,-1,-1,,"B gives a higher payoff than A regardless of the other player's choice, and the previous rounds suggest they will choose B.",B always pays £2 more than A regardless of the other player's choice.
+pd_low,pd,low,30,9,9,B,B,A,0,0,,,-1,-1,,B strictly dominates A because it pays more against either choice by the other player.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,31,8,1,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives me more than B regardless of the other player's choice.
+pd_low,pd,low,31,8,2,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,31,8,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,31,8,4,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,31,8,5,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,31,8,6,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,31,8,7,A,A,B,0,0,,,-1,-1,,A is the better choice against either option the other player may choose.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,31,8,8,A,A,B,0,0,,,-1,-1,,"Given the other player's consistent choice of A, choosing A minimizes your loss this round.","The other player has chosen A every round, and against A your payoff is higher with A than with B."
+pd_low,pd,low,32,2,1,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,32,2,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,33,4,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives £1 more than B regardless of the other player's choice.
+pd_low,pd,low,33,4,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A always pays £2 more than B against either choice by the other player.
+pd_low,pd,low,33,4,3,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A pays £1 more than B regardless of the other player's choice.
+pd_low,pd,low,33,4,4,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,34,12,1,B,B,A,0,0,,,-1,-1,,B strictly outperforms A regardless of the other player's choice.,B strictly pays more than A regardless of the other player's choice.
+pd_low,pd,low,34,12,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,34,12,3,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,"The other player chose B in both previous rounds, so B is the safer choice if they continue that pattern."
+pd_low,pd,low,34,12,4,B,B,A,0,0,,,-1,-1,,B gives you more than A regardless of the other player's choice.,B always gives £1 more than A regardless of the other player's choice.
+pd_low,pd,low,34,12,5,B,B,A,0,0,,,-1,-1,,B gives me £2 more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,34,12,6,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,34,12,7,B,B,A,0,0,,,-1,-1,,B strictly dominates A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,34,12,8,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B always gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,34,12,9,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,34,12,10,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,34,12,11,B,B,A,0,0,,,-1,-1,,"Given the other player has consistently chosen B, choosing B yields the better payoff of -£1 rather than -£2.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,34,12,12,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,35,7,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A yields more money than B regardless of the other player's choice.
+pd_low,pd,low,35,7,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A yields £1 or £2 more than B regardless of the other player's choice.
+pd_low,pd,low,35,7,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,35,7,4,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A is the better choice against either option the other player may choose.
+pd_low,pd,low,35,7,5,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,35,7,6,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,35,7,7,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,36,15,1,B,B,A,0,0,,,-1,-1,,B yields more money than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,36,15,2,B,B,A,0,0,,,-1,-1,,B is strictly better than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,36,15,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B is the better choice regardless of what the other player chooses.
+pd_low,pd,low,36,15,4,B,B,A,0,0,,,-1,-1,,B weakly dominates A and gives a higher payoff whenever the other player chooses B.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,36,15,5,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,36,15,6,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,"Given the other player has chosen B every previous round, B minimizes my expected loss this round."
+pd_low,pd,low,36,15,7,B,B,A,0,0,,,-1,-1,,"Since the other player has chosen B every previous round, choosing B limits the loss to £1 instead of £2.",B is always better than A regardless of the other player's choice.
+pd_low,pd,low,36,15,8,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,36,15,9,B,B,A,0,0,,,-1,-1,,"B always gives you a higher payoff than A, regardless of the other player's choice.",B always pays £2 more than A regardless of the other player's choice.
+pd_low,pd,low,36,15,10,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,36,15,11,B,B,A,0,0,,,-1,-1,,"Given the other player has always chosen B, choosing B minimizes your loss this round.",B always pays £2 more than A against either choice by the other player.
+pd_low,pd,low,36,15,12,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,36,15,13,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,36,15,14,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,36,15,15,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,"The other player has consistently chosen B, and B limits your loss to £1 compared with £2 for choosing A."
+pd_low,pd,low,37,22,1,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,2,A,A,B,0,0,,,-1,-1,,A gives you £1 more than B regardless of the other player's choice.,A gives you £1 more than B regardless of the other player's choice.
+pd_low,pd,low,37,22,3,A,A,B,0,0,,,-1,-1,,A pays £2 more than B whether the other player chooses A or B.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,4,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,5,A,A,B,0,0,,,-1,-1,,A gives a higher immediate payoff than B regardless of the other player's choice.,A strictly dominates B because it pays £1 more against either choice by the other player.
+pd_low,pd,low,37,22,6,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,7,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A always pays £1 more than B regardless of the other player's choice.
+pd_low,pd,low,37,22,8,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,"The other player has chosen A in every previous round, and A gives a higher payoff than B against A."
+pd_low,pd,low,37,22,9,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,10,B,A,B,1,0,,,-2,5,,"The other player has chosen A every round, so choosing B yields £5 instead of £1 loss.","Since the other player has always chosen A, choosing A gives you the higher payoff this round."
+pd_low,pd,low,37,22,11,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,37,22,12,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,13,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and A gives me the higher payoff against A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,14,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B whether the other player chooses A or B.
+pd_low,pd,low,37,22,15,A,A,B,0,0,,,-1,-1,,A always pays £1 more than B regardless of the other player's choice.,A pays more than B whether the other player chooses A or B.
+pd_low,pd,low,37,22,16,A,A,B,0,0,,,-1,-1,,"The other player has chosen A every round, and against A my payoff is better with A than with B.",A pays £1 more than B whether the other player chooses A or B.
+pd_low,pd,low,37,22,17,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,37,22,18,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,19,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,20,A,A,B,0,0,,,-1,-1,,A yields a higher payoff than B regardless of the other player's choice.,A pays more than B whether the other player chooses A or B.
+pd_low,pd,low,37,22,21,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and against A your payoff from A is better than from B.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,37,22,22,A,A,B,0,0,,,-1,-1,,A pays more than B whether the other player chooses A or B.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,38,1,1,B,B,A,0,0,,,-1,-1,,B pays more than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,39,28,1,A,A,B,0,0,,,-1,-1,,A yields at least £1 more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,2,A,A,B,0,0,,,-1,-1,,A gives you £1 more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,4,A,A,B,0,0,,,-1,-1,,A always pays £1 more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,5,A,A,B,0,0,,,-1,-1,,A strictly outperforms B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,39,28,6,A,A,B,0,0,,,-1,-1,,A always pays £2 more than B regardless of the other player's choice.,A gives £1 more than B regardless of the other player's choice.
+pd_low,pd,low,39,28,7,A,A,B,0,0,,,-1,-1,,A is better than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,8,A,A,B,0,0,,,-1,-1,,A yields more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,9,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives me £2 more than B regardless of the other player's choice.
+pd_low,pd,low,39,28,10,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"A pays £1 more than B against A and £2 more than B against B, so it is always better."
+pd_low,pd,low,39,28,11,A,B,B,0,1,,,5,-2,,A yields a higher payoff than B regardless of the other player's choice.,"The other player has chosen A every round, so choosing B earns £5 instead of £-1."
+pd_low,pd,low,39,28,12,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,13,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A pays £2 more than B regardless of the other player's choice.
+pd_low,pd,low,39,28,14,A,A,B,0,0,,,-1,-1,,"The other player has chosen A in 12 of the last 13 rounds, so A offers the best expected payoff.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,15,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives you £1 more than B regardless of the other player's choice.
+pd_low,pd,low,39,28,16,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, and A gives me the higher payoff against A."
+pd_low,pd,low,39,28,17,A,A,B,0,0,,,-1,-1,,A pays more than B whether the other player chooses A or B.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,18,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,39,28,19,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, and against A my payoff is higher with A than with B."
+pd_low,pd,low,39,28,20,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,21,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,39,28,22,A,A,B,0,0,,,-1,-1,,"The other player has almost always chosen A, making A the safer choice this round.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,23,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,24,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B whether the other player chooses A or B.,"The other player has consistently chosen A, and A gives me the higher payoff against A."
+pd_low,pd,low,39,28,25,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, and against A, choosing A loses £1 rather than £2."
+pd_low,pd,low,39,28,26,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,"The other player has consistently chosen A, and against A your better option is A rather than B."
+pd_low,pd,low,39,28,27,A,A,B,0,0,,,-1,-1,,A pays more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,39,28,28,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,40,20,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,40,20,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B always pays £2 more than A regardless of the other player's choice.
+pd_low,pd,low,40,20,3,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,40,20,4,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,40,20,5,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,40,20,6,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B always pays at least £1 more than A regardless of the other player's choice.
+pd_low,pd,low,40,20,7,B,B,A,0,0,,,-1,-1,,B strictly outperforms A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,40,20,8,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B always gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,40,20,9,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,"The other player has consistently chosen B, and B gives a better payoff than A when facing B."
+pd_low,pd,low,40,20,10,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A whether the other player chooses A or B.,B always pays more than A regardless of the other player's choice.
+pd_low,pd,low,40,20,11,B,B,A,0,0,,,-1,-1,,B gives a better payoff than A whether the other player chooses A or B.,B pays more than A regardless of the other player's choice.
+pd_low,pd,low,40,20,12,B,B,A,0,0,,,-1,-1,,"B always pays at least as much as A, regardless of the other player's choice.","The other player has chosen B every round, and B gives me £1 more than A when they choose B."
+pd_low,pd,low,40,20,13,B,B,A,0,0,,,-1,-1,,"Given the other player's consistent choice of B, choosing B avoids the lower payoff of A against B.",B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,40,20,14,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,"The other player has chosen B every round, so B minimizes my loss if they do so again."
+pd_low,pd,low,40,20,15,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,"The other player has always chosen B, and B gives me £1 more than A against B."
+pd_low,pd,low,40,20,16,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, and against B, choosing B loses £1 rather than £2.","Since the other player has consistently chosen B, choosing B limits your loss to £1 rather than £2."
+pd_low,pd,low,40,20,17,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,"The other player has chosen B every round, so B avoids the worse payoff of -£2 if they continue choosing B."
+pd_low,pd,low,40,20,18,A,B,A,1,0,,,-2,5,,"The other player has chosen B every round, so A would earn £5 instead of £1.","B gives £5 against A and £−1 against B, always outperforming A."
+pd_low,pd,low,40,20,19,B,B,A,0,0,,,-1,-1,,B always pays at least as much as A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,40,20,20,B,B,A,0,0,,,-1,-1,,"The other player has consistently chosen B, and against B, choosing B loses £1 instead of £2 with A.",B pays £1 more than A regardless of the other player's choice.
+pd_low,pd,low,41,6,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,41,6,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,41,6,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,41,6,4,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,41,6,5,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A always gives you £2 more than B against either choice by the other player.
+pd_low,pd,low,41,6,6,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,"Against the other player's apparent choice of A, choosing A loses £1 rather than £2."
+pd_low,pd,low,42,1,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,43,4,1,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,43,4,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,43,4,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,43,4,4,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,44,3,1,B,B,A,0,0,,,-1,-1,,B gives me £2 more than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,44,3,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,44,3,3,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,45,4,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,45,4,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,45,4,3,A,A,B,0,0,,,-1,-1,,A pays more than B whether the other player chooses A or B.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,45,4,4,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,46,4,1,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,46,4,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,46,4,3,B,B,A,0,0,,,-1,-1,,"Given the other player chose B in both previous rounds, B minimizes the expected loss if they choose B again.",B strictly dominates A because it gives a higher payoff regardless of the other player's choice.
+pd_low,pd,low,46,4,4,B,B,A,0,0,,,-1,-1,,B is better than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,47,7,1,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A yields more money than B regardless of the other player's choice.
+pd_low,pd,low,47,7,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,47,7,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,47,7,4,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A pays £1 more than B against either choice by the other player.
+pd_low,pd,low,47,7,5,A,A,B,0,0,,,-1,-1,,A is the better choice regardless of what the other player chooses.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,47,7,6,A,A,B,0,0,,,-1,-1,,A is better than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,47,7,7,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,48,8,1,B,B,A,0,0,,,-1,-1,,B gives me a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,48,8,2,B,B,A,0,0,,,-1,-1,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,48,8,3,B,B,A,0,0,,,-1,-1,,B gives me £2 more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,48,8,4,B,B,A,0,0,,,-1,-1,,"Given the other player has chosen B in every previous round, B currently yields the better payoff if that pattern continues.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,48,8,5,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,48,8,6,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_low,pd,low,48,8,7,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B gives you more money than A regardless of the other player's choice.
+pd_low,pd,low,48,8,8,B,B,A,0,0,,,-1,-1,,B gives a higher payoff than A regardless of the other player's choice.,B is always better than A regardless of the other player's choice.
+pd_low,pd,low,49,18,1,A,A,B,0,0,,,-1,-1,,A yields more than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,2,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_low,pd,low,49,18,3,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,4,A,A,B,0,0,,,-1,-1,,A always pays more than B regardless of the other player's choice.,"Given the other player has chosen A so far, A minimizes the expected loss if they choose A again."
+pd_low,pd,low,49,18,5,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,6,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,7,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,8,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B whether the other player chooses A or B.
+pd_low,pd,low,49,18,9,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives £2 more than B regardless of the other player's choice.
+pd_low,pd,low,49,18,10,A,A,B,0,0,,,-1,-1,,"Since the other player has consistently chosen A, choosing A loses £1 rather than £2 for choosing B.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,11,A,A,B,0,0,,,-1,-1,,"The other player has consistently chosen A, and A gives me £1 rather than £2 loss against A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,12,A,A,B,0,0,,,-1,-1,,A strictly outperforms B regardless of the other player's choice.,"The other player has consistently chosen A, and A gives me the higher payoff when they choose A."
+pd_low,pd,low,49,18,13,A,A,B,0,0,,,-1,-1,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,14,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,15,A,A,B,0,0,,,-1,-1,,A gives you a higher payoff than B regardless of the other player's choice.,A is the better choice against either option the other player might choose.
+pd_low,pd,low,49,18,16,A,A,B,0,0,,,-1,-1,,A pays £1 more than B regardless of the other player's choice.,"Since the other player has consistently chosen A, choosing A gives me £1 rather than £2."
+pd_low,pd,low,49,18,17,A,A,B,0,0,,,-1,-1,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_low,pd,low,49,18,18,A,A,B,0,0,,,-1,-1,,"A is the better choice against either option, and the other player has chosen A every round.","Given the other player has always chosen A, choosing A yields -£1 instead of -£2."
+pd_high,pd,high,0,14,1,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,0,14,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B pays £2,000 more than A whether the other player chooses A or B."
+pd_high,pd,high,0,14,3,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,0,14,4,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,0,14,5,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,0,14,6,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B pays £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,0,14,7,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you more money than A regardless of the other player's choice.
+pd_high,pd,high,0,14,8,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,0,14,9,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,0,14,10,B,B,A,0,0,,,-1000,-1000,,B is always better than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,0,14,11,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,0,14,12,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"Given the other player's consistent choice of B, choosing B limits your loss to £1,000 instead of £2,000."
+pd_high,pd,high,0,14,13,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,0,14,14,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,"B guarantees £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,1,5,1,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A strictly pays more than B regardless of the other player's choice.
+pd_high,pd,high,1,5,2,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.","A gives you £2,000 more than B regardless of the other player's choice."
+pd_high,pd,high,1,5,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,1,5,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,1,5,5,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,2,2,1,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,2,2,2,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A if the other player chooses A and £1,000 more if they choose B.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,3,5,1,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,3,5,2,A,A,B,0,0,,,-1000,-1000,,"A gives at least £1,000 more than B regardless of the other player's choice.","A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,3,5,3,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,3,5,4,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,3,5,5,A,A,B,0,0,,,-1000,-1000,,"Given the other player has chosen A in every previous round, A yields a better payoff than B if they choose A again.","A always pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,4,18,1,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,2,B,B,A,0,0,,,-1000,-1000,,B gives you more money than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,3,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,4,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,5,B,B,A,0,0,,,-1000,-1000,,"B guarantees £1,000 more than A regardless of the other player's choice.","B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,4,18,6,B,B,A,0,0,,,-1000,-1000,,B guarantees a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,7,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A whether the other player chooses A or B.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,8,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,9,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.","Given the other player has chosen B every round, choosing B limits this round’s loss to £1,000 instead of £2,000."
+pd_high,pd,high,4,18,10,B,B,A,0,0,,,-1000,-1000,,B gives you more money than A regardless of the other player's choice.,"Given the other player has consistently chosen B, choosing B limits your loss to £1,000 rather than £2,000."
+pd_high,pd,high,4,18,11,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,12,B,B,A,0,0,,,-1000,-1000,,B pays more than A whether the other player chooses A or B.,"B gives £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,4,18,13,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,14,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,15,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,4,18,16,B,B,A,0,0,,,-1000,-1000,,"B always pays £2,000 more than A against either choice by the other player.","Given the other player's consistent choice of B, choosing B yields £1,000 more than choosing A this round."
+pd_high,pd,high,4,18,17,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,4,18,18,B,B,A,0,0,,,-1000,-1000,,"The other player has chosen B every round, and B gives me the higher payoff against B.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,5,4,1,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,5,4,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,5,4,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,5,4,4,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,6,13,1,B,B,A,0,0,,,-1000,-1000,,"B yields £2,000 more than A regardless of the other player's choice.",B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B pays £2,000 more if the other player chooses A and £1,000 more if they choose B."
+pd_high,pd,high,6,13,3,B,B,A,0,0,,,-1000,-1000,,B pays more than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,4,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,5,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,6,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,7,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,8,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,9,B,B,A,0,0,,,-1000,-1000,,"Against the other player's consistent B choice, B limits your loss to £1,000 rather than £2,000.",B gives you more money than A regardless of the other player's choice.
+pd_high,pd,high,6,13,10,B,B,A,0,0,,,-1000,-1000,,"The other player has chosen B every round, and choosing B then loses £1,000 instead of £2,000 for choosing A.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,11,B,B,A,0,0,,,-1000,-1000,,B yields more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,6,13,12,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,"B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,6,13,13,B,B,A,0,0,,,-1000,-1000,,"B always pays £2,000 more than A regardless of the other player's choice.","B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,7,2,1,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,7,2,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,8,4,1,B,B,A,0,0,,,-1000,-1000,,"B gives me £2,000 more than A regardless of the other player's choice.",B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,8,4,2,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,8,4,3,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,8,4,4,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,9,10,1,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,9,10,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,9,10,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,9,10,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,9,10,5,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,9,10,6,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B whether the other player chooses A or B.,A pays more than B whether the other player chooses A or B.
+pd_high,pd,high,9,10,7,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,9,10,8,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,9,10,9,A,A,B,0,0,,,-1000,-1000,,A guarantees a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,9,10,10,A,A,B,0,0,,,-1000,-1000,,A strictly outperforms B regardless of the other player’s choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,10,27,1,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,2,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,4,B,B,A,0,0,,,-1000,-1000,,"B gives you £1,000 more than A regardless of the other player's choice.","B always pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,10,27,5,B,B,A,0,0,,,-1000,-1000,,"B guarantees at least £1,000 more than A against either possible choice by the other player.","B always pays £2,000 more than A against either choice by the other player."
+pd_high,pd,high,10,27,6,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.","Given the other player has chosen B in every previous round, B minimizes the expected loss this round."
+pd_high,pd,high,10,27,7,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,8,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A if the other player chooses A and £1,000 more if they choose B.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,9,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,10,B,B,A,0,0,,,-1000,-1000,,B always pays more than A regardless of the other player's choice.,B gives you more money than A regardless of the other player's choice.
+pd_high,pd,high,10,27,11,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,12,B,B,A,0,0,,,-1000,-1000,,"B always pays at least £1,000 more than A regardless of the other player's choice.",B is the better choice regardless of what the other player chooses.
+pd_high,pd,high,10,27,13,B,B,A,0,0,,,-1000,-1000,,"The other player has consistently chosen B, and against B I lose £1,000 with B rather than £2,000 with A.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,14,B,A,A,0,1,,,5000,-2000,,B gives you a higher payoff than A regardless of the other player's choice.,"Since the other player has consistently chosen B, choosing A yields £5,000 instead of losing £1,000."
+pd_high,pd,high,10,27,15,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,16,B,B,A,0,0,,,-1000,-1000,,B pays more than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,17,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,10,27,18,B,B,A,0,0,,,-1000,-1000,,"B pays £1,000 more than A regardless of the other player's choice.","B gives me £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,10,27,19,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,10,27,20,B,B,A,0,0,,,-1000,-1000,,B pays more than A regardless of the other player's choice.,"The other player has consistently chosen B, and B gives me the better payoff against B."
+pd_high,pd,high,10,27,21,B,B,A,0,0,,,-1000,-1000,,B gives you more money than A regardless of the other player's choice.,"The other player has consistently chosen B, and B loses £1,000 versus £2,000 for choosing A against B."
+pd_high,pd,high,10,27,22,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.","The other player has overwhelmingly chosen B, making B the better expected choice."
+pd_high,pd,high,10,27,23,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,"B strictly dominates A because it pays £2,000 more against either choice by the other player."
+pd_high,pd,high,10,27,24,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A if the other player chooses A and £1,000 more if they choose B.","The other player has consistently chosen B, and against B, choosing B limits the loss to £1,000 rather than £2,000."
+pd_high,pd,high,10,27,25,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A regardless of the other player's choice.",B gives me a higher payoff than A whether the other player chooses A or B.
+pd_high,pd,high,10,27,26,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,10,27,27,B,B,A,0,0,,,-1000,-1000,,B pays more than A regardless of the other player's choice.,"B always pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,11,25,1,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,11,25,2,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,3,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B whether the other player chooses A or B.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,5,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,6,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,7,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A is the better choice regardless of which option the other player selects.
+pd_high,pd,high,11,25,8,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, choosing A avoids the larger loss from choosing B against A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,9,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,10,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,11,A,A,B,0,0,,,-1000,-1000,,A is better than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,12,A,A,B,0,0,,,-1000,-1000,,"The other player has chosen A every round, and A gives the higher payoff against A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,13,A,A,B,0,0,,,-1000,-1000,,"Given the other player has chosen A every round, choosing A limits your loss to £1,000 instead of £2,000 for choosing B.","The other player has consistently chosen A, so choosing A minimizes my expected loss this round."
+pd_high,pd,high,11,25,14,A,A,B,0,0,,,-1000,-1000,,"The other player has always chosen A, and against A this round A loses less than B.","Since the other player has chosen A every round, A maximizes my immediate payoff against their apparent strategy."
+pd_high,pd,high,11,25,15,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, choosing A minimizes your loss this round.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,16,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,11,25,17,A,A,B,0,0,,,-1000,-1000,,"A gives me £1,000 more than B regardless of the other player's choice.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,18,A,A,B,0,0,,,-1000,-1000,,A is the better choice regardless of the other player's action.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,19,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, A is the better response against A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,20,A,B,B,0,1,,,5000,-2000,,A gives you a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, so B yields £5,000 instead of another £1,000 loss."
+pd_high,pd,high,11,25,21,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,11,25,22,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A strictly dominates B because it pays more against either choice by the other player.
+pd_high,pd,high,11,25,23,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.","The other player has always chosen A, and against A, choosing A loses less than choosing B."
+pd_high,pd,high,11,25,24,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"The other player has chosen A in every observed round, so choosing A avoids the larger loss from choosing B against A."
+pd_high,pd,high,11,25,25,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A gives you more money than B regardless of the other player's choice.
+pd_high,pd,high,12,18,1,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B pays more than A whether the other player chooses A or B.
+pd_high,pd,high,12,18,2,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A regardless of the other player's choice.",B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,12,18,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,12,18,4,B,B,A,0,0,,,-1000,-1000,,"B always pays £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,12,18,5,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,12,18,6,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"Given the other player has chosen B repeatedly, B minimizes the loss if they choose B again."
+pd_high,pd,high,12,18,7,B,B,A,0,0,,,-1000,-1000,,"B always pays at least £1,000 more than A regardless of the other player's choice.",B strictly dominates A because it yields more money against either choice by the other player.
+pd_high,pd,high,12,18,8,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,12,18,9,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,12,18,10,B,B,A,0,0,,,-1000,-1000,,"B always pays at least £1,000 more than A regardless of the other player's choice.","B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,12,18,11,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,"B pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,12,18,12,B,B,A,0,0,,,-1000,-1000,,"The other player has consistently chosen B, and against B, choosing B loses £1,000 rather than £2,000 with A.","B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,12,18,13,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives a better payoff than A regardless of the other player's choice.
+pd_high,pd,high,12,18,14,B,B,A,0,0,,,-1000,-1000,,B pays more than A whether the other player chooses A or B.,"B always pays £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,12,18,15,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A regardless of the other player's choice.",B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,12,18,16,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"Given the other player has always chosen B, choosing B guarantees £1,000 more than choosing A this round."
+pd_high,pd,high,12,18,17,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B is better than A regardless of whether the other player chooses A or B.
+pd_high,pd,high,12,18,18,B,B,A,0,0,,,-1000,-1000,,"The other player has chosen B every round, and B gives me the better payoff against B.","Given the other player has consistently chosen B, choosing B limits your loss to £1,000 rather than £2,000."
+pd_high,pd,high,13,2,1,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B whether the other player chooses A or B.
+pd_high,pd,high,13,2,2,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.",A pays more than B regardless of the other player's choice.
+pd_high,pd,high,14,1,1,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,15,33,1,A,A,B,0,0,,,-1000,-1000,,A is the better choice regardless of the other player's decision.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,2,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,3,A,A,B,0,0,,,-1000,-1000,,"A gives you £2,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,4,A,A,B,0,0,,,-1000,-1000,,"Given the other player has chosen A in every previous round, A currently offers the better expected payoff.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,5,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,15,33,6,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £2,000 more than B regardless of the other player's choice."
+pd_high,pd,high,15,33,7,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,8,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,9,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,10,A,A,B,0,0,,,-1000,-1000,,"A always gives you £3,000 more than B when the other player chooses B and £1,000 more when they choose A.","Given the other player has consistently chosen A, A currently yields a better payoff than B."
+pd_high,pd,high,15,33,11,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A always pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,15,33,12,A,A,B,0,0,,,-1000,-1000,,"A gives me £1,000 more than B regardless of the other player's choice.",A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,13,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, and A gives a higher payoff than B when they choose A."
+pd_high,pd,high,15,33,14,A,A,B,0,0,,,-1000,-1000,,"A gives £1,000 more than B regardless of the other player's choice.","Given the other player has consistently chosen A, A loses less than B against A."
+pd_high,pd,high,15,33,15,A,A,B,0,0,,,-1000,-1000,,"Given the other player's consistent choice of A, choosing A minimizes my loss against A.",A is the better choice against the other player's observed A and is strictly dominant overall.
+pd_high,pd,high,15,33,16,A,A,B,0,0,,,-1000,-1000,,"Given the other player's consistent choice of A, choosing A minimizes my expected loss this round.",A pays more than B regardless of the other player's choice.
+pd_high,pd,high,15,33,17,A,B,B,0,1,,,5000,-2000,,"A pays £2,000 more than B regardless of the other player's choice.","The other player has chosen A every previous round, so B is likely to earn £5,000 this round."
+pd_high,pd,high,15,33,18,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,19,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B whether the other player chooses A or B.
+pd_high,pd,high,15,33,20,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A gives a better payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,21,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.","The other player has always chosen A, and against A your payoff is higher with A than with B."
+pd_high,pd,high,15,33,22,A,A,B,0,0,,,-1000,-1000,,A gives you more money than B regardless of the other player's choice.,"Given the other player has consistently chosen A, A minimizes the expected loss this round."
+pd_high,pd,high,15,33,23,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B whether the other player chooses A or B.",A is the better choice whether the other player chooses A or B.
+pd_high,pd,high,15,33,24,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A pays more than B regardless of the other player's choice.
+pd_high,pd,high,15,33,25,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,26,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, so A gives the better payoff against their observed behavior."
+pd_high,pd,high,15,33,27,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,28,A,A,B,0,0,,,-1000,-1000,,"The other player has almost always chosen A, against which A loses £1,000 rather than £2,000 for B.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,29,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,15,33,30,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,"The other player has consistently chosen A, and against A my payoff is higher with A than with B."
+pd_high,pd,high,15,33,31,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B whether the other player chooses A or B.","The other player has almost always chosen A, and against A your payoff is higher with A than with B."
+pd_high,pd,high,15,33,32,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B whether the other player chooses A or B.",A pays more than B regardless of the other player's choice.
+pd_high,pd,high,15,33,33,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,16,19,1,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,16,19,2,B,B,A,0,0,,,-1000,-1000,,B pays more than A regardless of the other player's choice.,"B pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,16,19,3,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,16,19,4,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B strictly outperforms A regardless of the other player's choice.
+pd_high,pd,high,16,19,5,B,B,A,0,0,,,-1000,-1000,,B gives you more money than A regardless of the other player's choice.,"B always gives you £2,000 more than A against either choice by the other player."
+pd_high,pd,high,16,19,6,B,B,A,0,0,,,-1000,-1000,,B gives you more than A regardless of the other player's choice.,"B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,16,19,7,B,B,A,0,0,,,-1000,-1000,,"B always pays at least as much as A, regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,16,19,8,B,B,A,0,0,,,-1000,-1000,,B gives you more money than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,16,19,9,B,B,A,0,0,,,-1000,-1000,,"B gives £2,000 more than A if the other player chooses A and £1,000 more if they choose B.","B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,16,19,10,B,B,A,0,0,,,-1000,-1000,,"The other player has chosen B every round, and against B, choosing B loses £1,000 rather than £2,000 with A.",B pays more than A whether the other player chooses A or B.
+pd_high,pd,high,16,19,11,B,B,A,0,0,,,-1000,-1000,,B pays more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,16,19,12,B,B,A,0,0,,,-1000,-1000,,"B gives £2,000 more than A regardless of the other player's choice.","Given the other player has consistently chosen B, choosing B minimizes the loss this round."
+pd_high,pd,high,16,19,13,B,B,A,0,0,,,-1000,-1000,,"B always pays £2,000 more than A against either choice by the other player.",B gives more money than A regardless of the other player's choice.
+pd_high,pd,high,16,19,14,B,B,A,0,0,,,-1000,-1000,,"Given the other player's consistent choice of B, B avoids the worse payoff if they continue choosing B.","B always pays £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,16,19,15,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,16,19,16,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,16,19,17,B,B,A,0,0,,,-1000,-1000,,"B always pays at least £1,000 more than A regardless of the other player's choice.",B strictly outperforms A regardless of the other player's choice.
+pd_high,pd,high,16,19,18,B,B,A,0,0,,,-1000,-1000,,"Against the other player's consistent B choice, B limits your loss to £1,000 instead of £2,000.",B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,16,19,19,B,B,A,0,0,,,-1000,-1000,,"The other player has consistently chosen B, and against B, choosing B loses £1,000 rather than £2,000.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,17,21,1,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,17,21,2,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,17,21,3,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.",A pays more than B regardless of the other player's choice.
+pd_high,pd,high,17,21,4,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,17,21,5,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,17,21,6,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,"A always pays £2,000 more than B regardless of the other player's choice."
+pd_high,pd,high,17,21,7,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,17,21,8,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,"A yields £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,17,21,9,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, so choosing A avoids the larger loss from choosing B against A."
+pd_high,pd,high,17,21,10,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,Option A strictly dominates option B because it pays more regardless of the other player's choice.
+pd_high,pd,high,17,21,11,A,A,B,0,0,,,-1000,-1000,,A strictly earns more than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,17,21,12,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives a better payoff than B regardless of the other player's choice.
+pd_high,pd,high,17,21,13,A,A,B,0,0,,,-1000,-1000,,"Given the other player has always chosen A, choosing A limits your loss to £1,000 rather than £2,000.",A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,17,21,14,A,A,B,0,0,,,-1000,-1000,,"Given the other player has chosen A every round, A minimizes your expected loss this round.",A gives you more money than B regardless of the other player's choice.
+pd_high,pd,high,17,21,15,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,"The other player has always chosen A, and A gives me a higher payoff than B against A."
+pd_high,pd,high,17,21,16,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,"The other player has always chosen A, and against A, choosing A loses less than choosing B."
+pd_high,pd,high,17,21,17,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,"Given the other player's consistent A choices, A minimizes my loss this round."
+pd_high,pd,high,17,21,18,A,A,B,0,0,,,-1000,-1000,,"Given the other player has always chosen A, choosing A limits your loss to £1,000 instead of £2,000.","The other player has consistently chosen A, and against A, choosing A loses £1,000 rather than £2,000 with B."
+pd_high,pd,high,17,21,19,A,A,B,0,0,,,-1000,-1000,,A is strictly better than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,17,21,20,A,A,B,0,0,,,-1000,-1000,,"A guarantees £1,000 more than B when the other player chooses A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,17,21,21,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B whether the other player chooses A or B.","The other player has consistently chosen A, and against A, choosing A loses £1,000 rather than £2,000 with B."
+pd_high,pd,high,18,2,1,B,B,A,0,0,,,-1000,-1000,,"B yields £1,000 more than A regardless of the other player's choice.",B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,18,2,2,B,B,A,0,0,,,-1000,-1000,,"B gives £1,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,19,7,1,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,19,7,2,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,19,7,3,A,A,B,0,0,,,-1000,-1000,,A gives you more money than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,19,7,4,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.","A gives you £1,000 more than B if the other player chooses A and £2,000 more if they choose B."
+pd_high,pd,high,19,7,5,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B against either choice by the other player.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,19,7,6,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,19,7,7,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A always pays more than B regardless of the other player's choice.
+pd_high,pd,high,20,6,1,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,"B always pays £1,000–£2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,20,6,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,20,6,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,20,6,4,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,20,6,5,B,B,A,0,0,,,-1000,-1000,,"B always pays £1,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,20,6,6,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,21,9,1,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,21,9,2,A,A,B,0,0,,,-1000,-1000,,"A gives you £2,000 more than B if the other player chooses B and £1,000 more if they choose A.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,21,9,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,21,9,4,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,21,9,5,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,21,9,6,A,A,B,0,0,,,-1000,-1000,,A is the better choice regardless of the other player's action.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,21,9,7,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,21,9,8,A,A,B,0,0,,,-1000,-1000,,"Given the other player's consistent choice of A, choosing A limits this round's loss to £1,000 rather than £2,000.",A is the better choice regardless of the other player's action.
+pd_high,pd,high,21,9,9,A,A,B,0,0,,,-1000,-1000,,"A always pays £1,000 more than B regardless of the other player's choice.",A is the better choice against either action by the other player.
+pd_high,pd,high,22,3,1,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,"B pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,22,3,2,B,B,A,0,0,,,-1000,-1000,,"B always pays £1,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,22,3,3,B,B,A,0,0,,,-1000,-1000,,"B gives £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,23,10,1,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,23,10,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,23,10,3,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.",A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,23,10,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,23,10,5,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A is better than B regardless of the other player's choice.
+pd_high,pd,high,23,10,6,A,A,B,0,0,,,-1000,-1000,,A pays more than B whether the other player chooses A or B.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,23,10,7,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,"Given the other player has chosen A every round, A yields £1,000 more than B against A."
+pd_high,pd,high,23,10,8,A,A,B,0,0,,,-1000,-1000,,"The other player has consistently chosen A, and against A, choosing A loses less than choosing B.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,23,10,9,A,A,B,0,0,,,-1000,-1000,,"A gives £1,000 more than B regardless of the other player's choice.",A pays more than B regardless of the other player's choice.
+pd_high,pd,high,23,10,10,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,24,3,1,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,24,3,2,B,B,A,0,0,,,-1000,-1000,,B gives you more money than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,24,3,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B pays £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,25,6,1,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,25,6,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,25,6,3,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,25,6,4,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,25,6,5,A,A,B,0,0,,,-1000,-1000,,"A gives you £2,000 more than B regardless of the other player's choice.",A gives you more money than B regardless of the other player's choice.
+pd_high,pd,high,25,6,6,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,26,4,1,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,"B pays £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,26,4,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,26,4,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,26,4,4,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,27,3,1,A,A,B,0,0,,,-1000,-1000,,"A gives me £1,000 more than B regardless of the other player's choice.",A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,27,3,2,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,27,3,3,A,A,B,0,0,,,-1000,-1000,,A pays more than B whether the other player chooses A or B.,A gives me more money than B regardless of the other player's choice.
+pd_high,pd,high,28,8,1,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,28,8,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,28,8,3,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,28,8,4,A,B,A,1,0,,,-2000,5000,,"The other player has chosen B in every previous round, so A is the better response to their likely B choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,28,8,5,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A whether the other player chooses A or B.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,28,8,6,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B always pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,28,8,7,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,28,8,8,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,29,5,1,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,29,5,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,29,5,3,A,A,B,0,0,,,-1000,-1000,,"A gives you £2,000 more than B if the other player chooses B and £1,000 more if they choose A.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,29,5,4,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,29,5,5,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,30,9,1,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B always pays more than A regardless of the other player's choice.
+pd_high,pd,high,30,9,2,B,B,A,0,0,,,-1000,-1000,,B pays more than A whether the other player chooses A or B.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,30,9,3,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more against A and £1,000 more against B than choosing A.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,30,9,4,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,30,9,5,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B always pays £1,000 more than A for any choice the other player makes."
+pd_high,pd,high,30,9,6,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,30,9,7,B,B,A,0,0,,,-1000,-1000,,"B always pays £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,30,9,8,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,"Given the other player has consistently chosen B, choosing B limits the loss to £1,000 rather than risking £2,000 with A."
+pd_high,pd,high,30,9,9,B,B,A,0,0,,,-1000,-1000,,"The other player has chosen B every round, and B gives a better payoff than A against B.",B strictly dominates A because it pays more whether the other player chooses A or B.
+pd_high,pd,high,31,8,1,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,31,8,2,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,31,8,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,31,8,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,31,8,5,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,"A pays £2,000 more than B regardless of the other player's choice."
+pd_high,pd,high,31,8,6,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,31,8,7,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,31,8,8,A,A,B,0,0,,,-1000,-1000,,"The other player has consistently chosen A, and A is the better response if they continue doing so.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,32,2,1,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,32,2,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,33,4,1,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,33,4,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,33,4,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,33,4,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,34,12,1,A,B,A,1,0,,,-2000,5000,,Choosing A supports mutual cooperation and offers a strong payoff if the other player also cooperates.,"B always pays £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,34,12,2,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives you more money than A regardless of the other player's choice.
+pd_high,pd,high,34,12,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,34,12,4,B,B,A,0,0,,,-1000,-1000,,B gives at least as much as A against either choice and more unless the other player certainly chooses A.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,34,12,5,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,34,12,6,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,34,12,7,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,34,12,8,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,34,12,9,B,B,A,0,0,,,-1000,-1000,,B pays more than A whether the other player chooses A or B.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,34,12,10,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B yields a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,34,12,11,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,34,12,12,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,35,7,1,A,A,B,0,0,,,-1000,-1000,,"A gives me £2,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,35,7,2,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,35,7,3,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,35,7,4,A,A,B,0,0,,,-1000,-1000,,"A gives you £2,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,35,7,5,A,A,B,0,0,,,-1000,-1000,,A is the better response whether the other player chooses A or B.,A gives a higher payoff than B regardless of the other player’s choice.
+pd_high,pd,high,35,7,6,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,35,7,7,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £2,000 more than B regardless of the other player's choice."
+pd_high,pd,high,36,15,1,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,36,15,2,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,36,15,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B gives you £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,36,15,4,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,36,15,5,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,36,15,6,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B pays more than A whether the other player chooses A or B.
+pd_high,pd,high,36,15,7,B,B,A,0,0,,,-1000,-1000,,"B always pays £2,000 more than A regardless of the other player's choice.",B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,36,15,8,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A if the other player chooses A and £1,000 more if they choose B.",B pays more than A whether the other player chooses A or B.
+pd_high,pd,high,36,15,9,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A regardless of the other player's choice.","Given the other player's repeated choice of B, choosing B limits this round's loss to £1,000 rather than £2,000."
+pd_high,pd,high,36,15,10,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you more money than A regardless of the other player's choice.
+pd_high,pd,high,36,15,11,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B always pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,36,15,12,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,"B gives you £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,36,15,13,B,B,A,0,0,,,-1000,-1000,,"Given the other player's consistent choice of B, choosing B limits your loss to £1,000 instead of £2,000.","B gives you £5,000 against A and loses only £1,000 against B, making it better than A in either case."
+pd_high,pd,high,36,15,14,B,B,A,0,0,,,-1000,-1000,,"Given the other player has consistently chosen B, choosing B limits your loss to £1,000 rather than £2,000.","The other player has chosen B every round, and against B, choosing B loses less than choosing A."
+pd_high,pd,high,36,15,15,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B always pays more than A regardless of the other player's choice.
+pd_high,pd,high,37,22,1,A,A,B,0,0,,,-1000,-1000,,A strictly pays more than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,37,22,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A gives me £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,37,22,3,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,37,22,4,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,37,22,5,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,37,22,6,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you more than B regardless of the other player's choice.
+pd_high,pd,high,37,22,7,A,A,B,0,0,,,-1000,-1000,,"Given the other player has always chosen A, choosing A loses £1,000 rather than £2,000 with B.","A gives you £2,000 more than B regardless of the other player's choice."
+pd_high,pd,high,37,22,8,A,A,B,0,0,,,-1000,-1000,,A strictly dominates B because it pays more than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,37,22,9,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,37,22,10,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, and A gives me the higher payoff when they choose A."
+pd_high,pd,high,37,22,11,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"Since the other player has chosen A every round, choosing A limits my loss to £1,000 rather than £2,000 from choosing B."
+pd_high,pd,high,37,22,12,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, choosing A yields the better payoff of -£1,000 versus -£2,000 for B.","The other player has chosen A every round, so choosing A limits your loss to £1,000 instead of £2,000."
+pd_high,pd,high,37,22,13,A,A,B,0,0,,,-1000,-1000,,A is the better choice against either possible choice by the other player.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,37,22,14,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,"Since the other player has always chosen A, choosing A avoids the lower payoff of £2,000 from choosing B against A."
+pd_high,pd,high,37,22,15,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,37,22,16,B,A,B,1,0,,,-2000,5000,,"The other player has chosen A every round, so B would yield £5,000 instead of £1,000 lost if that pattern continues.","A gives you £2,000 more than B regardless of the other player's choice."
+pd_high,pd,high,37,22,17,A,A,B,0,0,,,-1000,-1000,,"The other player has consistently chosen A, and A gives me a higher payoff than B when they choose A.",A pays more than B whether the other player chooses A or B.
+pd_high,pd,high,37,22,18,A,A,B,0,0,,,-1000,-1000,,"The other player has consistently chosen A, and against A my higher payoff is from choosing A.",A pays more than B regardless of the other player's choice.
+pd_high,pd,high,37,22,19,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,37,22,20,A,A,B,0,0,,,-1000,-1000,,"The other player has consistently chosen A, and against A my payoff is higher with A than with B.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,37,22,21,A,A,B,0,0,,,-1000,-1000,,"The other player has consistently chosen A, and A yields a higher payoff than B against A.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,37,22,22,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,38,1,1,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,"B gives me £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,39,28,1,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,39,28,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you more money than B regardless of the other player's choice.
+pd_high,pd,high,39,28,3,A,A,B,0,0,,,-1000,-1000,,"A pays £2,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,5,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,6,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,7,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, A yields a better payoff than B against A.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,8,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,"A yields £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,39,28,9,A,A,B,0,0,,,-1000,-1000,,A pays more than B whether the other player chooses A or B.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,10,A,A,B,0,0,,,-1000,-1000,,A always pays more than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,39,28,11,A,A,B,0,0,,,-1000,-1000,,A is the better response whether the other player chooses A or B.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,12,A,A,B,0,0,,,-1000,-1000,,"Given the other player's consistent choice of A, choosing A minimizes my expected loss this round.",A is strictly better than B regardless of the other player's choice.
+pd_high,pd,high,39,28,13,A,A,B,0,0,,,-1000,-1000,,"The other player has consistently chosen A, and against A, choosing A loses £1,000 rather than £2,000 with B.","A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,39,28,14,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,15,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, choosing A loses £1,000 rather than £2,000 for choosing B.","A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,39,28,16,A,A,B,0,0,,,-1000,-1000,,A gives me more money than B regardless of the other player's choice.,"Given the other player has always chosen A, choosing A loses £1,000 rather than £2,000 for choosing B."
+pd_high,pd,high,39,28,17,A,A,B,0,0,,,-1000,-1000,,"The other player has consistently chosen A, and A gives a better payoff than B against A.",A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,18,A,A,B,0,0,,,-1000,-1000,,A yields more than B regardless of the other player's choice.,A is the better choice against either action by the other player.
+pd_high,pd,high,39,28,19,A,A,B,0,0,,,-1000,-1000,,"Given the other player has always chosen A, choosing A minimizes my expected loss this round.","A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,39,28,20,A,A,B,0,0,,,-1000,-1000,,A is always more profitable than B regardless of the other player's choice.,A gives more money than B regardless of the other player's choice.
+pd_high,pd,high,39,28,21,A,A,B,0,0,,,-1000,-1000,,A is the better response because the other player has consistently chosen A.,A gives you a better payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,22,A,A,B,0,0,,,-1000,-1000,,"The other player has chosen A every round, and against A, choosing A loses £1,000 rather than £2,000.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,23,A,A,B,0,0,,,-1000,-1000,,A is strictly better than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,39,28,24,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.","A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,39,28,25,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, choosing A limits my loss to £1,000 instead of £2,000.",A is better than B regardless of the other player's choice.
+pd_high,pd,high,39,28,26,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B against either possible choice by the other player.
+pd_high,pd,high,39,28,27,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A is the better choice regardless of the other player's action.
+pd_high,pd,high,39,28,28,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.","The other player has chosen A every round, so choosing A minimizes my expected loss this round."
+pd_high,pd,high,40,20,1,B,B,A,0,0,,,-1000,-1000,,B is the better choice against either option the other player might choose.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,40,20,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,40,20,3,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more if the other player chooses A and £1,000 more if they choose B.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,40,20,4,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,"B pays £1,000–£2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,40,20,5,B,B,A,0,0,,,-1000,-1000,,B gives you more money than A whether the other player chooses A or B.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,40,20,6,B,A,A,0,1,,,5000,-2000,,"B always pays £2,000 more than A regardless of the other player's choice.",Choosing A offers the chance to restore mutually beneficial cooperation after five costly B/B rounds.
+pd_high,pd,high,40,20,7,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,40,20,8,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A whether the other player chooses A or B.","B pays £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,40,20,9,B,B,A,0,0,,,-1000,-1000,,B pays more than A whether the other player chooses A or B.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,40,20,10,B,B,A,0,0,,,-1000,-1000,,B earns more than A regardless of which option the other player chooses.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,40,20,11,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B is the better choice regardless of the other player’s action.
+pd_high,pd,high,40,20,12,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"The other player has consistently chosen B, and against B your B payoff is higher than choosing A."
+pd_high,pd,high,40,20,13,B,B,A,0,0,,,-1000,-1000,,B pays more than A whether the other player chooses A or B.,"The other player has chosen B every round, and B loses less than A against B."
+pd_high,pd,high,40,20,14,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B always pays £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,40,20,15,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,"B always pays £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,40,20,16,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,40,20,17,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B always pays more than A regardless of the other player's choice.
+pd_high,pd,high,40,20,18,B,B,A,0,0,,,-1000,-1000,,B pays more than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,40,20,19,B,B,A,0,0,,,-1000,-1000,,"The other player has almost always chosen B, and against B your B payoff is higher than choosing A.","The other player has consistently chosen B, and against B, choosing B loses £1,000 rather than £2,000 with A."
+pd_high,pd,high,40,20,20,B,B,A,0,0,,,-1000,-1000,,"The other player has almost always chosen B, and against B, choosing B limits the loss to £1,000 rather than £2,000.","The other player has consistently chosen B, and B loses £1,000 compared with £2,000 for choosing A against B."
+pd_high,pd,high,41,6,1,A,A,B,0,0,,,-1000,-1000,,"A gives £2,000 more than B regardless of the other player's choice.",A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,41,6,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,41,6,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B whether the other player chooses A or B.
+pd_high,pd,high,41,6,4,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,41,6,5,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.","A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,41,6,6,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B whether the other player chooses A or B.","A pays £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,42,1,1,A,B,A,1,0,,,-2000,5000,,"Against an opponent using the symmetric mixed-strategy equilibrium, A and B have equal expected payoffs.","B pays £2,000 more than A if the other player chooses A and £1,000 more if they choose B."
+pd_high,pd,high,43,4,1,A,A,B,0,0,,,-1000,-1000,,A gives you more money than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,43,4,2,A,B,B,0,1,,,5000,-2000,,A gives you a higher payoff than B regardless of the other player's choice.,"Choosing B gives the best chance of moving toward mutually beneficial £3,000 outcomes in future rounds."
+pd_high,pd,high,43,4,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,43,4,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,44,3,1,B,B,A,0,0,,,-1000,-1000,,"B pays £2,000 more than A regardless of the other player's choice.",B always pays more than A regardless of the other player's choice.
+pd_high,pd,high,44,3,2,B,B,A,0,0,,,-1000,-1000,,"B gives you £2,000 more than A regardless of the other player's choice.",B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,44,3,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,45,4,1,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,45,4,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"A pays £2,000 more than B whether the other player chooses A or B."
+pd_high,pd,high,45,4,3,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B whether the other player chooses A or B.","A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,45,4,4,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.","A gives you £2,000 more than B if the other player chooses A and £2,000 more if they choose B."
+pd_high,pd,high,46,4,1,B,B,A,0,0,,,-1000,-1000,,"B gives me £2,000 more than A regardless of the other player's choice.","B yields £2,000 more than A regardless of the other player's choice."
+pd_high,pd,high,46,4,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,46,4,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,46,4,4,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B pays £2,000 more than A if the other player chooses A and £1,000 more if they choose B."
+pd_high,pd,high,47,7,1,A,A,B,0,0,,,-1000,-1000,,"A gives me £1,000 more than B regardless of the other player's choice.",A pays more than B regardless of the other player's choice.
+pd_high,pd,high,47,7,2,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,47,7,3,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,47,7,4,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,A yields a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,47,7,5,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,47,7,6,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,47,7,7,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,48,8,1,B,B,A,0,0,,,-1000,-1000,,B gives me a higher payoff than A regardless of the other player's choice.,B gives me a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,48,8,2,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A whether the other player chooses A or B.,"B gives £1,000 more than A regardless of the other player's choice."
+pd_high,pd,high,48,8,3,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,"B gives £2,000 more if the other player chooses A and £1,000 more if they choose B."
+pd_high,pd,high,48,8,4,B,B,A,0,0,,,-1000,-1000,,B gives you a higher payoff than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,48,8,5,B,B,A,0,0,,,-1000,-1000,,B gives you more money than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,48,8,6,B,B,A,0,0,,,-1000,-1000,,B pays more than A whether the other player chooses A or B.,B gives a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,48,8,7,B,B,A,0,0,,,-1000,-1000,,B gives a higher payoff than A regardless of the other player's choice.,B pays more than A regardless of the other player's choice.
+pd_high,pd,high,48,8,8,B,B,A,0,0,,,-1000,-1000,,B pays more than A regardless of the other player's choice.,B gives you a higher payoff than A regardless of the other player's choice.
+pd_high,pd,high,49,18,1,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,2,A,A,B,0,0,,,-1000,-1000,,A gives me a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,3,A,A,B,0,0,,,-1000,-1000,,"A gives you £1,000 more than B regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,4,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,5,A,A,B,0,0,,,-1000,-1000,,A pays more than B regardless of the other player's choice.,"A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,49,18,6,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"Given the other player has chosen A every round, A is the better response to their apparent strategy."
+pd_high,pd,high,49,18,7,A,A,B,0,0,,,-1000,-1000,,A gives a higher payoff than B regardless of the other player's choice.,A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,8,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A strictly dominates B because it pays more than B regardless of the other player's choice.
+pd_high,pd,high,49,18,9,A,A,B,0,0,,,-1000,-1000,,"A pays £1,000 more than B regardless of the other player's choice.","The other player has chosen A every round, and against A my payoff is higher with A than with B."
+pd_high,pd,high,49,18,10,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,"The other player has consistently chosen A, and A gives a higher payoff than B when they choose A."
+pd_high,pd,high,49,18,11,A,A,B,0,0,,,-1000,-1000,,A gives you a higher payoff than B regardless of the other player's choice.,A pays more than B regardless of the other player's choice.
+pd_high,pd,high,49,18,12,A,A,B,0,0,,,-1000,-1000,,A is always better than B regardless of the other player's choice.,A gives me a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,13,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, choosing A minimizes the immediate loss and preserves coordination.","A gives you £1,000 more than B regardless of the other player's choice."
+pd_high,pd,high,49,18,14,A,A,B,0,0,,,-1000,-1000,,"Given the other player has always chosen A, choosing A gives you £1,000 more than choosing B this round.",A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,15,A,A,B,0,0,,,-1000,-1000,,"Given the other player has always chosen A, choosing A loses £1,000 rather than £2,000 for choosing B.","A pays £2,000 more than B regardless of the other player's choice."
+pd_high,pd,high,49,18,16,A,A,B,0,0,,,-1000,-1000,,A is strictly better than B regardless of the other player's choice.,A gives a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,17,A,A,B,0,0,,,-1000,-1000,,"A strictly dominates B, giving a higher payoff regardless of the other player's choice.",A gives you a higher payoff than B regardless of the other player's choice.
+pd_high,pd,high,49,18,18,A,A,B,0,0,,,-1000,-1000,,"Given the other player has consistently chosen A, choosing A minimizes your expected loss this round.","A yields £1,000 more than B regardless of the other player's choice."

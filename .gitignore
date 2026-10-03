@@ -1,0 +1,33 @@
+# Secrets: never upload the .env file (it holds the API key)
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Test output from the simulated agent
+data/*_mock/
+results/*_mock/
+results_mock/
+
+# Pilot runs (small test runs made before each full run; not used in the paper)
+data/*_pilot/
+results/*_pilot/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# CSV files with the written reasons (regenerate with export_rounds_part_a.py and export_god_reasons.py)
+results/part_a_rounds.csv
+results/god_reasons.csv
+
+# Raw data and text reports (not uploaded)
+*.jsonl
+results/**/*.txt
+results/*.txt
