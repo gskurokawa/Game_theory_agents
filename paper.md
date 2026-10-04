@@ -166,6 +166,19 @@ Main observations:
 
 This run was completed last (50 games at each stakes level, 1,888 decisions). The average contribution share was 0.003 at low stakes and 0.012 at high stakes, against 0.000 and 0.005 in the baseline; neither difference is distinguishable from zero (p = 0.507 and 0.397). Contributions occurred in 2 of 472 rounds at low stakes and 13 of 472 at high stakes. As predicted from the other conditions, the result is near zero, but for gpt-5.6-luna this cannot be called an effect of the description, because the baseline is already zero. The word "God" appears in 29.5% of the written reasons, so the agents refer to the description, and 63.6% of the reasons give the one-round argument (28.7% in the baseline). Only 1.7% mention the future or repeated play.
 
+### 4.4 Control sentences and repeat of the baseline, gpt-6-luna (exploratory)
+
+To test whether the low cooperation under the philanthropist and God descriptions comes from their content or from the addition of any sentence about the other player, three further runs were made with gpt-6-luna, each with 20 games per condition (the first 20 game lengths and option labels of the baseline): a repeat of the baseline, a control sentence with no relevance to the game ("The other player lives in Leeds."), and a control sentence that states only that the other player is an AI ("The other player is another AI agent."). Each run is compared with the original baseline (50 games per condition).
+
+| Condition | Prisoner's dilemma, low / high stakes | Public goods game, low / high stakes |
+|---|---|---|
+| Original baseline | 0.196 / 0.068 | 0.373 / 0.250 |
+| Repeat of the baseline | 0.206 / 0.051 | 0.608 / 0.142 |
+| Leeds sentence | 0.096 / 0.161 | 0.383 / 0.312 |
+| "Another AI agent" | 0.290 / 0.153 | 0.625 / 0.375 |
+
+The repeat reproduced the prisoner's dilemma rates (p = 0.90 and 0.56) and again gave a public goods contribution far above that of gpt-5.6-luna; its size varied between runs (low stakes, p = 0.033; high stakes, p = 0.156). The Leeds sentence did not lower public goods contributions (p = 0.93 and 0.46), so the fall to about zero under the philanthropist and God descriptions is not caused by the addition of any sentence. The sentence "another AI agent" raised public goods contributions at low stakes (+0.251, p = 0.016), in the same direction as the same-model sentence. In the public goods game the share of written reasons that mention the future, repeated play or reciprocity was 16.8% in the baseline, 15.5% with the Leeds sentence, 21.2% with "another AI agent", 2.7% with the philanthropist description and 1.0% with the God description. These runs are small and exploratory, and no correction for multiple comparisons was made.
+
 ---
 
 ## 5. Part B results
